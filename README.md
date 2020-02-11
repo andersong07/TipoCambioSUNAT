@@ -1,2 +1,2 @@
 # Tipo Cambio SUNAT
-Obtener el tipo de cambio sunat haciendo scraping con PHP.
+Obtener el tipo de cambio del dia en sunat haciendo scraping con PHP.
